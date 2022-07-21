@@ -4,8 +4,6 @@
 ## Just beginner programmer
 
 
-Goals
-
 
 ## Tools 
 ![Framework](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=11111)
@@ -14,4 +12,10 @@ Goals
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=2c2c70)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=2c2c70)
-Follow me
+
+## Follow me
+
+[![VK](https://img.shields.io/badge/-vk-090909?style=for-the-badge&logo=vk&logoColor=0000)](https://vk.com/alex2243)
+[![TG](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor)](https://t.me/alexey2243)
+
+
