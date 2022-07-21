@@ -8,6 +8,7 @@ Goals
 
 
 ## Tools 
-![ASP](https://img.shields.io/badge/-ASP.NET;-090909?style=for-the-badge&logo=.net&logoColor=d62929)
+![ASP](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=11111)
 
+![ASP](https://img.shields.io/badge/-ASP.NET-090909?style=for-the-badge&logo=.net&logoColor=d62929)
 Follow me
