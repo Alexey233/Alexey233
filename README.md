@@ -14,8 +14,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=2c2c70)
 
 ## Follow me
-
-[![VK](https://img.shields.io/badge/-vk-090909?style=for-the-badge&logo=vk&logoColor=0000)](https://vk.com/alex2243)
 [![TG](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor)](https://t.me/alexey2243)
 
 
